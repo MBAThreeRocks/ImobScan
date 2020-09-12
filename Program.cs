@@ -22,6 +22,7 @@ namespace ImobScan
             }
         }
 
+        //Método para exibir um texto no console
         private static void ExibirMensagem(string mensagem)
         {
             Console.WriteLine(mensagem);
