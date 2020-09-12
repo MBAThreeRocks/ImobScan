@@ -1,0 +1,36 @@
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csprojAssemblyReference.cache
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.AssemblyInfoInputs.cache
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.AssemblyInfo.cs
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csproj.CoreCompileInputs.cache
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.exe
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.deps.json
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.runtimeconfig.json
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.runtimeconfig.dev.json
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.dll
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.pdb
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.dll
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.pdb
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.genruntimeconfig.cache
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Tiago\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Tiago\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csproj.CopyComplete
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csprojAssemblyReference.cache
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.AssemblyInfoInputs.cache
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.AssemblyInfo.cs
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csproj.CoreCompileInputs.cache
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.pdb
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.exe
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.deps.json
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.runtimeconfig.json
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.runtimeconfig.dev.json
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ImobScan.pdb
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csproj.CopyComplete
+C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.genruntimeconfig.cache
