@@ -17,7 +17,7 @@ namespace ImobScan.Motores
 
         private static readonly string Diretorio = @"C:\Users\tccun\Google Drive\Projetos\ImobScan\Arquivos\html.txt";
         public static readonly string DiretorioCSVBase = @"C:\Users\tccun\Google Drive\Projetos\ImobScan\Arquivos\Base.csv";
-        public static readonly string DiretorioCSVBaseBairro = @"C:\Users\tccun\Google Drive\Projetos\ImobScan\Arquivos\Bairros";
+        public static readonly string DiretorioCSVBaseBairro = @"C:\Users\tccun\Google Drive\Projetos\Bases\Bairros";
         public static readonly string DiretorioCSVBairro = @"C:\Users\tccun\Google Drive\Projetos\ImobScan\Arquivos\BaseBairroZap.csv";
 
         public static void UnificarArquivos()
