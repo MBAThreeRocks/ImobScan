@@ -1,0 +1,125 @@
+{
+    "neighborhood": {
+        "time": 22,
+        "maxScore": 114.38497924804688,
+        "totalCount": 12,
+        "result": {
+            "locations": [
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "São Paulo",
+                        "zone": "Zona Sul",
+                        "street": "",
+                        "locationId": "BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Guarani",
+                        "state": "São Paulo",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -46.635762,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -23.640527
+                        }
+                    },
+                    "url": "/venda/imoveis/sp+sao-paulo+zona-sul+vl-guarani/"
+                },
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "Santo André",
+                        "zone": "",
+                        "street": "",
+                        "locationId": "BR>Sao Paulo>NULL>Santo Andre>Barrios>Vila Guarani",
+                        "state": "São Paulo",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -46.49694,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -23.708687
+                        }
+                    },
+                    "url": "/venda/imoveis/sp+santo-andre++vl-guarani/"
+                },
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "Jundiaí",
+                        "zone": "",
+                        "street": "",
+                        "locationId": "BR>Sao Paulo>NULL>Jundiai>Barrios>Vila Guarani",
+                        "state": "São Paulo",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -46.911153,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -23.175847
+                        }
+                    },
+                    "url": "/venda/imoveis/sp+jundiai++vl-guarani/"
+                },
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "Mauá",
+                        "zone": "",
+                        "street": "",
+                        "locationId": "BR>Sao Paulo>NULL>Maua>Barrios>Vila Guarani",
+                        "state": "São Paulo",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -46.45012,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -23.670937
+                        }
+                    },
+                    "url": "/venda/imoveis/sp+maua++vl-guarani/"
+                },
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "São José dos Campos",
+                        "zone": "",
+                        "street": "",
+                        "locationId": "BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Vila Guarani",
+                        "state": "São Paulo",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -45.871894,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -23.174537
+                        }
+                    },
+                    "url": "/venda/imoveis/sp+sao-jose-dos-campos++vl-guarani/"
+                },
+                {
+                    "uriCategory": {
+                        "page": "RESULT"
+                    },
+                    "address": {
+                        "city": "Colombo",
+                        "zone": "",
+                        "street": "",
+                        "locationId": "BR>Parana>NULL>Colombo>Barrios>Vila Guarani",
+                        "state": "Paraná",
+                        "neighborhood": "Vila Guarani",
+                        "point": {
+                            "lon": -49.189165,
+                            "source": "GeoPointSource_NONE",
+                            "lat": -25.372656
+                        }
+                    },
+                    "url": "/venda/imoveis/pr+colombo++vl-guarani/"
+                }
+            ]
+        }
+    }
+}

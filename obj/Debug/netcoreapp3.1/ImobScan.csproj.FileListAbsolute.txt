@@ -34,3 +34,6 @@ C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft
 C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.csproj.CopyComplete
 C:\Users\tccun\Google Drive\Projetos\ImobScan\obj\Debug\netcoreapp3.1\ImobScan.genruntimeconfig.cache
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\ProxySharp.dll
+C:\Users\tccun\Google Drive\Projetos\ImobScan\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll

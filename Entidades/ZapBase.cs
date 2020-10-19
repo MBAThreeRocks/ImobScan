@@ -23,6 +23,9 @@ namespace ImobScan.Entidades
         public string Banheiros {get;set;}
         public string Quartos {get;set;}
         public string ValorCondominio {get;set;}
+        public string CEP {get;set;}
+        public string Descricao {get;set;}
+        public string Pros {get;set;}
 
         public ZapBase()
         {
@@ -111,10 +114,9 @@ namespace ImobScan.Entidades
             
             this.ValorCondominio = this.ValorCondominio.Replace("R$","").Replace(".","").Trim();
 
-            if(IdImovel == "2470960784")
-            {
-                AreaTotal = AreaTotal;
-            }
+            this.CEP = anuncio.Listing.Address.ZipCode;
+            this.Descricao = anuncio.Listing.Description;
+            this.Pros = anuncio.Listing.Address.PoisList.ToSingleLine();
         }
     }
 }

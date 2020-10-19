@@ -1,0 +1,531 @@
+﻿Bairro; Zona; LocationID; Latitude; Longitude; Url
+Água Rasa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Agua Rasa; -23,5603; -46,566217; /venda/imoveis/sp+sao-paulo+zona-leste+agua-rasa/
+Alto da Mooca; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Alto da Mooca; -23,564019; -46,587312; /venda/imoveis/sp+sao-paulo+zona-leste+alto-da-mooca/
+Chácara Mafalda; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Chacara Mafalda; -23,572201; -46,55599; /venda/imoveis/sp+sao-paulo+zona-leste+ch-mafalda/
+Chácara Paraíso; ; BR>Sao Paulo>NULL>Itu>Barrios>Chacara Paraiso; -23,263999; -47,299673; /venda/imoveis/sp+itu++ch-paraiso/
+Jardim Guanabara; Ilha do Governador; BR>Rio de Janeiro>NULL>Rio de Janeiro>Ilha do Governador>Jardim Guanabara; -22,808059; -43,20725; /venda/imoveis/rj+rio-de-janeiro+ilha-do-governador+jd-guanabara/
+Jardim Itália; ; BR>Mato Grosso>NULL>Cuiaba>Barrios>Jardim Italia; -15,597132; -56,061236; /venda/imoveis/mt+cuiaba++jd-italia/
+Jardim Silveira; ; BR>Sao Paulo>NULL>Barueri>Barrios>Jardim Silveira; -23,511567; -46,874382; /venda/imoveis/sp+barueri++jd-silveira/
+Vila Bertioga; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Bertioga; -23,561937; -46,57972; /venda/imoveis/sp+sao-paulo+zona-leste+vl-bertioga/
+Vila Celeste; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Celeste; -23,574387; -46,567432; /venda/imoveis/sp+sao-paulo+zona-leste+vl-celeste/
+Vila Cláudia; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Claudia; -23,559979; -46,586946; /venda/imoveis/sp+sao-paulo+zona-leste+vl-claudia/
+Vila Clotilde; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Vila Clotilde; -23,499246; -46,556464; /venda/imoveis/sp+guarulhos++vl-clotilde/
+Vila Diva; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Diva; -23,572201; -46,55599; /venda/imoveis/sp+sao-paulo+zona-leste+vl-diva/
+Vila Graciosa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Graciosa; -23,584811; -46,551172; /venda/imoveis/sp+sao-paulo+zona-leste+vl-graciosa/
+Vila Invernada; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Invernada; -23,567567; -46,563216; /venda/imoveis/sp+sao-paulo+zona-leste+vl-invernada/
+Vila Libanesa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Libanesa; -23,507086; -46,507237; /venda/imoveis/sp+sao-paulo+zona-leste+vl-libanesa/
+Vila Oratório; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Oratorio; -23,571005; -46,578275; /venda/imoveis/sp+sao-paulo+zona-leste+vl-oratorio/
+Vila Paulina; ; BR>Sao Paulo>NULL>Tatui>Barrios>Vila Paulina; -23,359465; -47,871757; /venda/imoveis/sp+tatui++vl-paulina/
+Vila Regente Feijó; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Regente Feijo; -23,5603; -46,566217; /venda/imoveis/sp+sao-paulo+zona-leste+vl-regente-feijo/
+Vila Rio Branco; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Rio Branco; -23,510851; -46,495809; /venda/imoveis/sp+sao-paulo+zona-leste+vl-rio-branco/
+Vila Santa Clara; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Santa Clara; -23,578545; -46,56279; /venda/imoveis/sp+sao-paulo+zona-leste+vl-sta-clara/
+Alto de Pinheiros; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Alto de Pinheiros; -23,541631; -46,722467; /venda/imoveis/sp+sao-paulo+zona-oeste+alto-de-pinheiros/
+Boaçava; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Boacava; -23,544131; -46,729718; /venda/imoveis/sp+sao-paulo+zona-oeste+boacava/
+Jardim Atibaia; ; BR>Sao Paulo>NULL>Campinas>Barrios>Jardim Atibaia; -22,883223; -46,965331; /venda/imoveis/sp+campinas++jd-atibaia/
+Jardim Califórnia; ; BR>Sao Paulo>NULL>Jacarei>Barrios>Jardim California; -23,276404; -45,944985; /venda/imoveis/sp+jacarei++jd-california/
+Vila Beatriz; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Beatriz; -23,52698; -46,533714; /venda/imoveis/sp+sao-paulo+zona-leste+vl-beatriz/
+Vila Ida; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Ida; -23,53985; -46,710385; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-ida/
+Vila Madalena; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Madalena; -23,551437; -46,697566; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-madalena/
+Vila Nogueira; ; BR>Sao Paulo>NULL>Campinas>Barrios>Vila Nogueira; -22,86774; -47,039898; /venda/imoveis/sp+campinas++vl-nogueira/
+Anhanguera; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Anhanguera; -23,479116; -46,741805; /venda/imoveis/sp+sao-paulo+zona-norte+anhanguera/
+Jardim Anhangüera; ; BR>Sao Paulo>NULL>Jundiai>Barrios>Jardim Anhanguera; -23,205731; -46,897381; /venda/imoveis/sp+jundiai++jd-anhanguera/
+Jardim Britânia; ; BR>Sao Paulo>NULL>Caraguatatuba>Barrios>Jardim Britania; -23,664953; -45,433331; /venda/imoveis/sp+caraguatatuba++jd-britania/
+Jardim Escócia; ; BR>Sao Paulo>NULL>Aracoiaba da Serra>Barrios>Jardim Escocia; -23,513321; -47,572366; /venda/imoveis/sp+aracoiaba-da-serra++jd-escocia/
+Jardim Jaraguá; ; BR>Sao Paulo>NULL>Taubate>Barrios>Jardim Jaragua; -23,004632; -45,548193; /venda/imoveis/sp+taubate++jd-jaragua/
+Morro Doce; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Morro Doce; -23,440612; -46,794868; /venda/imoveis/sp+sao-paulo+zona-oeste+morro-doce/
+Aricanduva; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Aricanduva; -23,573873; -46,527395; /venda/imoveis/sp+sao-paulo+zona-leste+aricanduva/
+Jardim Catarina; ; BR>Rio de Janeiro>NULL>Sao Goncalo>Barrios>Jardim Catarina; -22,792167; -42,999798; /venda/imoveis/rj+sao-goncalo++jd-catarina/
+Jardim Cotching; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Cotching; -23,572136; -46,530103; /venda/imoveis/sp+sao-paulo+zona-leste+jd-cotching/
+Jardim das Rosas; ; BR>Sao Paulo>NULL>Itu>Barrios>Jardim das Rosas; -23,29325; -47,300944; /venda/imoveis/sp+itu++jd-das-rosas/
+Jardim Nice; ; BR>Sao Paulo>NULL>Itatiba>Barrios>Jardim Nice; -23,001942; -46,839513; /venda/imoveis/sp+itatiba++jd-nice/
+Jardim Tango; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Tango; -23,580689; -46,520474; /venda/imoveis/sp+sao-paulo+zona-leste+jd-tango/
+Jardim Vila Formosa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Vila Formosa; -23,566891; -46,522791; /venda/imoveis/sp+sao-paulo+zona-leste+jd-vl-formosa/
+Vila Antonieta; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Antonieta; -23,571913; -46,513777; /venda/imoveis/sp+sao-paulo+zona-leste+vl-antonieta/
+Artur Alvim; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Artur Alvim; -23,525704; -46,483781; /venda/imoveis/sp+sao-paulo+zona-leste+artur-alvim/
+Conjunto Habitacional Padre José de Anchieta; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Conjunto Habitacional Padre Jose de Anchieta; -23,5503099; -46,4817577; /venda/imoveis/sp+sao-paulo+zona-leste+conj-hab-padre-jose-de-anchieta/
+Jardim Brasil; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Brasil; -23,484558; -46,567377; /venda/imoveis/sp+sao-paulo+zona-norte+jd-brasil/
+Jardim Coimbra; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Coimbra; -23,530461; -46,483781; /venda/imoveis/sp+sao-paulo+zona-leste+jd-coimbra/
+Jardim Marina; ; BR>Sao Paulo>NULL>Mongagua>Barrios>Jardim Marina; -24,098758; -46,626494; /venda/imoveis/sp+mongagua++jd-marina/
+Jardim Nordeste; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Nordeste; -23,530461; -46,483781; /venda/imoveis/sp+sao-paulo+zona-leste+jd-nordeste/
+Jardim Olímpia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Olimpia; -23,588223; -46,752081; /venda/imoveis/sp+sao-paulo+zona-sul+jd-olimpia/
+Jardim São João; ; BR>Sao Paulo>NULL>Jandira>Barrios>Jardim Sao Joao; -23,559502; -46,904657; /venda/imoveis/sp+jandira++jd-s-joao/
+Jardim São José; ; BR>Sao Paulo>NULL>Braganca Paulista>Barrios>Jardim Sao Jose; -22,97927; -46,537928; /venda/imoveis/sp+braganca-paulista++jd-s-jose/
+Vila Campanela; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Campanela; -23,538043; -46,464544; /venda/imoveis/sp+sao-paulo+zona-leste+vl-campanela/
+Vila Santa Teresa; ; BR>Sao Paulo>NULL>Santo Andre>Barrios>VILA SANTA TERESA; -23,672061; -46,526875; /venda/imoveis/sp+santo-andre++vl-sta-teresa/
+Barra Funda; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Barra Funda; -23,529192; -46,660999; /venda/imoveis/sp+sao-paulo+zona-oeste+barra-funda/
+Água Branca; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Agua Branca; -23,515253; -46,690828; /venda/imoveis/sp+sao-paulo+zona-oeste+agua-branca/
+Vila Charlote; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Charlote; -23,580887; -46,553581; /venda/imoveis/sp+sao-paulo+zona-leste+vl-charlote/
+Bela Vista; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Bela Vista; -23,555405; -46,645643; /venda/imoveis/sp+sao-paulo+centro+bela-vista/
+Belém; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Belem; -23,53689; -46,591617; /venda/imoveis/sp+sao-paulo+zona-leste+belem/
+Belenzinho; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Belenzinho; -23,535686; -46,601776; /venda/imoveis/sp+sao-paulo+zona-leste+belenzinho/
+Catumbi; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Catumbi; -23,535686; -46,601776; /venda/imoveis/sp+sao-paulo+zona-leste+catumbi/
+Quarta Parada; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Quarta Parada; -23,53689; -46,591617; /venda/imoveis/sp+sao-paulo+zona-leste+quarta-parada/
+Bom Retiro; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Bom Retiro; -23,52567; -46,640706; /venda/imoveis/sp+sao-paulo+centro+bom-retiro/
+Luz; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Luz; -23,653663; -46,706693; /venda/imoveis/sp+sao-paulo+centro+luz/
+Ponte Pequena; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Ponte Pequena; -23,525032; -46,629509; /venda/imoveis/sp+sao-paulo+zona-oeste+pte-pequena/
+Brasilândia; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Brasilandia; -23,474323; -46,675061; /venda/imoveis/sp+sao-paulo+zona-norte+brasilandia/
+Jardim Ana Maria; ; BR>Sao Paulo>NULL>Jundiai>Barrios>Jardim Ana Maria; -23,191413; -46,899199; /venda/imoveis/sp+jundiai++jd-ana-maria/
+Jardim Damasceno; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Damasceno; -23,4481939; -46,6875213; /venda/imoveis/sp+sao-paulo+zona-norte+jd-damasceno/
+Jardim Elisa Maria; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Elisa Maria; -23,460714; -46,681399; /venda/imoveis/sp+sao-paulo+zona-norte+jd-elisa-maria/
+Jardim Guarani; ; BR>Sao Paulo>NULL>Campinas>Barrios>Jardim Guarani; -22,911862; -47,035962; /venda/imoveis/sp+campinas++jd-guarani/
+Jardim Paraná; ; BR>Parana>NULL>Foz do Iguacu>Barrios>Jardim Parana; -25,516336; -54,585376; /venda/imoveis/pr+foz-do-iguacu++jd-parana/
+Jardim Vista Alegre; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim Vista Alegre; -20,806817; -49,346284; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-vista-alegre/
+Vila Itaberaba; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Itaberaba; -23,463319; -46,69589; /venda/imoveis/sp+sao-paulo+zona-norte+vl-itaberaba/
+Vila Penteado; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Penteado; -23,47025; -46,681399; /venda/imoveis/sp+sao-paulo+zona-norte+vl-penteado/
+Vila Rica; ; BR>Sao Paulo>NULL>Jundiai>Barrios>Vila Rica; -23,174079; -46,873221; /venda/imoveis/sp+jundiai++vl-rica/
+Butantã; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Butanta; -23,578795; -46,759336; /venda/imoveis/sp+sao-paulo+zona-oeste+butanta/
+Ferreira; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Ferreira; -23,596009; -46,741805; /venda/imoveis/sp+sao-paulo+zona-oeste+ferreira/
+Jardim Bonfiglioli; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Bonfiglioli; -23,580861; -46,739387; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-bonfiglioli/
+Jardim Matarazzo; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Matarazzo; -23,487188; -46,472656; /venda/imoveis/sp+sao-paulo+zona-leste+jd-matarazzo/
+Jardim Pinheiros; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim Pinheiros; -20,827017; -49,4019577; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-pinheiros/
+Jardim Rizzo; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Rizzo; -23,572008; -46,732739; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-rizzo/
+Vila Gomes; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Gomes; -23,580861; -46,739387; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-gomes/
+Vila Indiana; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Indiana; -23,57192; -46,727301; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-indiana/
+Vila Pirajussara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Pirajussara; -23,635494; -46,773244; /venda/imoveis/sp+sao-paulo+zona-sul+vl-pirajussara/
+Cachoeirinha; ; BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Cachoeirinha; -19,888585; -43,947986; /venda/imoveis/mg+belo-horizonte++cachoeirinha/
+Jardim Peri; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Peri; -23,457957; -46,661518; /venda/imoveis/sp+sao-paulo+zona-norte+jd-peri/
+Jardim Santa Cruz; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Santa Cruz; -23,641195; -46,596954; /venda/imoveis/sp+sao-paulo+zona-sul+jd-sta-cruz/
+Vila Amália; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Amalia; -23,47102; -46,654241; /venda/imoveis/sp+sao-paulo+zona-norte+vl-amalia/
+Vila Bela Vista; ; BR>Sao Paulo>NULL>Santo Andre>Barrios>VILA BELA VISTA; -23,688299; -46,527094; /venda/imoveis/sp+santo-andre++vl-bela-vista/
+Vila Nova Cachoeirinha; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Nova Cachoeirinha; -23,46695; -46,673552; /venda/imoveis/sp+sao-paulo+zona-norte+vl-nv-cachoeirinha/
+Cambuci; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cambuci; -23,564473; -46,621113; /venda/imoveis/sp+sao-paulo+zona-sul+cambuci/
+Campo Belo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Campo Belo; -23,62203; -46,67202; /venda/imoveis/sp+sao-paulo+zona-sul+campo-belo/
+Jardim Aeroporto; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Aeroporto; -23,633657; -46,664499; /venda/imoveis/sp+sao-paulo+zona-sul+jd-aeroporto/
+Vila Aeroporto; ; BR>Sao Paulo>NULL>Campinas>Barrios>Vila Aeroporto; -22,971076; -47,122683; /venda/imoveis/sp+campinas++vl-aeroporto/
+Vila Canaã; ; BR>Mato Grosso>NULL>Rondonopolis>Barrios>Vila Canaa; -16,476475; -54,641157; /venda/imoveis/mt+rondonopolis++vl-canaa/
+Vila Carmem; ; BR>Sao Paulo>NULL>Sao Carlos>Barrios>Vila Carmem; -22,029193; -47,908218; /venda/imoveis/sp+sao-carlos++vl-carmem/
+Vila Congonhas; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Congonhas; -23,627629; -46,661799; /venda/imoveis/sp+sao-paulo+zona-sul+vl-congonhas/
+Campo Grande; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Campo Grande; -23,679202; -46,678985; /venda/imoveis/sp+sao-paulo+zona-sul+campo-grande/
+Jardim Bélgica; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Belgica; -23,660897; -46,700117; /venda/imoveis/sp+sao-paulo+zona-sul+jd-belgica/
+Jardim Marajoara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Marajoara; -23,645725; -46,766592; /venda/imoveis/sp+sao-paulo+zona-sul+jd-marajoara/
+Jurubatuba; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jurubatuba; -23,675263; -46,699261; /venda/imoveis/sp+sao-paulo+zona-sul+jurubatuba/
+Vila Anhanguera; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Anhanguera; -23,663574; -46,694078; /venda/imoveis/sp+sao-paulo+zona-sul+vl-anhanguera/
+Vila Isa; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Isa; -23,670663; -46,690455; /venda/imoveis/sp+sao-paulo+zona-sul+vl-isa/
+Vila Sofia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Sofia; -23,661126; -46,690455; /venda/imoveis/sp+sao-paulo+zona-sul+vl-sofia/
+Cangaíba; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cangaiba; -23,508481; -46,542141; /venda/imoveis/sp+sao-paulo+zona-leste+cangaiba/
+Engenheiro Goulart; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Engenheiro Goulart; -23,500876; -46,515059; /venda/imoveis/sp+sao-paulo+zona-leste+engenheiro-goulart/
+Capão Redondo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Capao Redondo; -23,657687; -46,768406; /venda/imoveis/sp+sao-paulo+zona-sul+capao-redondo/
+Cidade Auxiliadora; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Auxiliadora; -23,6568508; -46,7659873; /venda/imoveis/sp+sao-paulo+zona-sul+cid-auxiliadora/
+Jardim Comercial; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Comercial; -23,674247; -46,783527; /venda/imoveis/sp+sao-paulo+zona-sul+jd-comercial/
+Jardim Dom José; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Dom Jose; -23,682841; -46,793804; /venda/imoveis/sp+sao-paulo+zona-sul+jd-d-jose/
+Jardim Rosana; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Jardim Rosana; -23,435016; -46,562012; /venda/imoveis/sp+guarulhos++jd-rosana/
+Vila Prel; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Prel; -23,646228; -46,749058; /venda/imoveis/sp+sao-paulo+zona-sul+vl-prel/
+Vila Santa Maria; ; BR>Sao Paulo>NULL>Americana>Barrios>Vila Santa Maria; -22,727718; -47,340069; /venda/imoveis/sp+americana++vl-sta-maria/
+Chácara Califórnia; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Chacara California; -23,537201; -46,551172; /venda/imoveis/sp+sao-paulo+zona-leste+ch-california/
+Chácara Santo Antônio; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Chacara Santo Antonio; -23,642172; -46,711732; /venda/imoveis/sp+sao-paulo+zona-sul+ch-sto-antonio/
+Vila Carrão; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Carrao; -23,537201; -46,551172; /venda/imoveis/sp+sao-paulo+zona-leste+vl-carrao/
+Vila Nova Manchester; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Nova Manchester; -23,54409; -46,536724; /venda/imoveis/sp+sao-paulo+zona-leste+vl-nv-manchester/
+Vila Santa Isabel; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Santa Isabel; -23,567186; -46,543792; /venda/imoveis/sp+sao-paulo+zona-leste+vl-sta-isabel/
+Cidade Ademar; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Ademar; -23,6649; -46,656654; /venda/imoveis/sp+sao-paulo+zona-sul+cid-ademar/
+Jardim Miriam; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Miriam; -23,652852; -46,671741; /venda/imoveis/sp+sao-paulo+zona-sul+jd-miriam/
+Jardim Anchieta; ; BR>Sao Paulo>NULL>Maua>Barrios>Jardim Anchieta; -23,689791; -46,461538; /venda/imoveis/sp+maua++jd-anchieta/
+Jardim Cidália; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Cidalia; -23,660326; -46,667516; /venda/imoveis/sp+sao-paulo+zona-sul+jd-cidalia/
+Jardim Prudência; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Prudencia; -23,652852; -46,671741; /venda/imoveis/sp+sao-paulo+zona-sul+jd-prudencia/
+Vila Joaniza; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Joaniza; -23,673339; -46,6620849; /venda/imoveis/sp+sao-paulo+zona-sul+vl-joaniza/
+Cidade Dutra; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Dutra; -23,711604; -46,7039; /venda/imoveis/sp+sao-paulo+zona-sul+cid-dutra/
+Interlagos; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Interlagos; -23,690445; -46,685625; /venda/imoveis/sp+sao-paulo+zona-sul+interlagos/
+Jardim Beatriz; ; BR>Sao Paulo>NULL>Sao Carlos>Barrios>Jardim Beatriz; -22,036004; -47,909781; /venda/imoveis/sp+sao-carlos++jd-beatriz/
+Jardim Guanhembu; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Guanhembu; -23,7321944; -46,6836701; /venda/imoveis/sp+sao-paulo+zona-sul+jd-guanhembu/
+Jardim Lallo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Lallo; -23,7130943; -46,6856253; /venda/imoveis/sp+sao-paulo+zona-sul+jd-lallo/
+Jardim Orion; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Orion; -23,55052; -46,633309; /venda/imoveis/sp+sao-paulo+zona-sul+jd-orion/
+Jardim Panorama; ; BR>Sao Paulo>NULL>Bauru>Barrios>Jardim Panorama; -22,32907; -49,057721; /venda/imoveis/sp+bauru++jd-panorama/
+Jardim Presidente; ; BR>Goias>NULL>Goiania>Barrios>Jardim Presidente; -16,735529; -49,337881; /venda/imoveis/go+goiania++jd-presidente/
+Jardim Primavera; ; BR>Sao Paulo>NULL>Jacarei>Barrios>Jardim Primavera; -23,284785; -45,950338; /venda/imoveis/sp+jacarei++jd-primavera/
+Parque das Árvores; ; BR>Rio Grande do Norte>NULL>Parnamirim>Barrios>Parque das Arvores; -5,906024; -35,220342; /venda/imoveis/rn+parnamirim++pq-das-arvores/
+Terceira Divisão de Interlagos; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Terceira Divisao de Interlagos; -23,7176072; -46,6934745; /venda/imoveis/sp+sao-paulo+zona-sul+terceira-divis-de-interlagos/
+Vila Quintana; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Quintana; -23,742455; -46,704949; /venda/imoveis/sp+sao-paulo+zona-sul+vl-quintana/
+Vila Rubi; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Vila Rubi; -23,2028495; -45,8903046; /venda/imoveis/sp+sao-jose-dos-campos++vl-rubi/
+Vila São José; ; BR>Sao Paulo>NULL>Taubate>Barrios>Vila Sao Jose; -23,016287; -45,542886; /venda/imoveis/sp+taubate++vl-s-jose/
+Cidade Líder; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Lider; -23,557835; -46,476182; /venda/imoveis/sp+sao-paulo+zona-leste+cid-lider/
+Jardim Brasília; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Brasilia; -23,555248; -46,495207; /venda/imoveis/sp+sao-paulo+zona-leste+jd-brasilia/
+Jardim Eliane; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Eliane; -23,554607; -46,5036281; /venda/imoveis/sp+sao-paulo+zona-leste+jd-eliane/
+Jardim Itapema; ; BR>Rio Grande do Sul>NULL>Viamao>Barrios>Jardim Itapema; -30,0702318; -51,0253672; /venda/imoveis/rs+viamao++jd-itapema/
+Jardim Santa Maria; ; BR>Sao Paulo>NULL>Jacarei>Barrios>Jardim Santa Maria; -23,285764; -45,959855; /venda/imoveis/sp+jacarei++jd-sta-maria/
+Cidade Líder; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Lider; -23,557835; -46,476182; /venda/imoveis/sp+sao-paulo+zona-leste+cid-lider/
+Jardim Marília; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Marilia; -23,557835; -46,476182; /venda/imoveis/sp+sao-paulo+zona-leste+jd-marilia/
+Vila Santa Rita; ; BR>Sao Paulo>NULL>Franca>Barrios>Vila Santa Rita; -20,550431; -47,393301; /venda/imoveis/sp+franca++vl-sta-rita/
+Cidade Tiradentes; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Tiradentes; -23,577347; -46,430859; /venda/imoveis/sp+sao-paulo+zona-leste+cid-tiradentes/
+Consolação; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Consolacao; -23,555405; -46,645643; /venda/imoveis/sp+sao-paulo+centro+consolacao/
+Cerqueira César; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Cerqueira Cesar; -23,559397; -46,668759; /venda/imoveis/sp+sao-paulo+centro+cerqueira-cesar/
+Higienópolis; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Higienopolis; -23,541705; -46,650918; /venda/imoveis/sp+sao-paulo+centro+higienopolis/
+Pacaembu; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Pacaembu; -23,546024; -46,669363; /venda/imoveis/sp+sao-paulo+zona-oeste+pacaembu/
+Vila Buarque; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Vila Buarque; -23,541705; -46,650918; /venda/imoveis/sp+sao-paulo+centro+vl-buarque/
+Cursino; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cursino; -23,611452; -46,623336; /venda/imoveis/sp+sao-paulo+zona-sul+cursino/
+Jardim São Savério; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Sao Saverio; -23,65491; -46,609009; /venda/imoveis/sp+sao-paulo+zona-sul+jd-s-saverio/
+Jardim da Saúde; ; BR>Sao Paulo>NULL>Jarinu>Barrios>Jardim da Saude; -23,104345; -46,728461; /venda/imoveis/sp+jarinu++jd-da-saude/
+Vila Brasilina; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Brasilina; -23,620776; -46,608258; /venda/imoveis/sp+sao-paulo+zona-sul+vl-brasilina/
+Vila Moraes; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Moraes; -23,626941; -46,606457; /venda/imoveis/sp+sao-paulo+zona-sul+vl-moraes/
+Ermelino Matarazzo; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Ermelino Matarazzo; -23,497171; -46,485008; /venda/imoveis/sp+sao-paulo+zona-leste+ermelino-matarazzo/
+Jardim Belém; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Belem; -23,489929; -46,47837; /venda/imoveis/sp+sao-paulo+zona-leste+jd-belem/
+Jardim Verônia; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Veronia; -23,486936; -46,488592; /venda/imoveis/sp+sao-paulo+zona-leste+jd-veronia/
+Parque Boturussu; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Boturussu; -23,497171; -46,485008; /venda/imoveis/sp+sao-paulo+zona-leste+pq-boturussu/
+Vila Paranaguá; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Paranagua; -23,498274; -46,472625; /venda/imoveis/sp+sao-paulo+zona-leste+vl-paranagua/
+Vila Robertina; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Robertina; -23,498513; -46,470555; /venda/imoveis/sp+sao-paulo+zona-leste+vl-robertina/
+Freguesia do Ó; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Freguesia do O; -23,502188; -46,691059; /venda/imoveis/sp+sao-paulo+zona-norte+freguesia-do-o/
+Chácara do Rosário; ; BR>Sao Paulo>NULL>Cajamar>Barrios>Chacara do Rosario; -23,3550047; -46,87886719999999; /venda/imoveis/sp+cajamar++ch-do-rosario/
+Itaberaba; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Itaberaba; -23,486302; -46,691663; /venda/imoveis/sp+sao-paulo+zona-norte+itaberaba/
+Jardim Monjolo; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Monjolo; -23,493567; -46,698909; /venda/imoveis/sp+sao-paulo+zona-norte+jd-monjolo/
+Sítio Morro Grande; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Sitio Morro Grande; -23,501845; -46,669327; /venda/imoveis/sp+sao-paulo+zona-norte+sitio-morro-grande/
+Vila Arcádia; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Arcadia; -23,505518; -46,700721; /venda/imoveis/sp+sao-paulo+zona-norte+vl-arcadia/
+Vila Bela; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Bela; -23,616503; -46,451426; /venda/imoveis/sp+sao-paulo+zona-leste+vl-bela/
+Vila Hebe; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Hebe; -23,475071; -46,672043; /venda/imoveis/sp+sao-paulo+zona-norte+vl-hebe/
+Vila Moinho Velho; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Moinho Velho; -23,61036; -46,604187; /venda/imoveis/sp+sao-paulo+zona-sul+vl-moinho-velho/
+Vila São Francisco; ; BR>Sao Paulo>NULL>Hortolandia>Barrios>Vila Sao Francisco; -22,864554; -47,218512; /venda/imoveis/sp+hortolandia++vl-s-francisco/
+Vila São Vicente; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Sao Vicente; -23,495896; -46,695286; /venda/imoveis/sp+sao-paulo+zona-norte+vl-s-vicente/
+Vila Siqueira; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Siqueira; -23,500408; -46,678985; /venda/imoveis/sp+sao-paulo+zona-norte+vl-siqueira/
+Grajaú; Zona Norte; BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau; -22,925954; -43,248713; /venda/imoveis/rj+rio-de-janeiro+zona-norte+grajau/
+Cantinho do Céu; ; BR>Espirito Santo>NULL>Serra>Barrios>Cantinho do Ceu; -20,210015; -40,279501; /venda/imoveis/es+serra++cantinho-do-ceu/
+Ilha do Bororé; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Ilha do Borore; -23,7697922; -46,6488679; /venda/imoveis/sp+sao-paulo+zona-sul+ilha-do-borore/
+Jardim Belcito; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Belcito; -23,76316; -46,685625; /venda/imoveis/sp+sao-paulo+zona-sul+jd-belcito/
+Jardim Edda; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Edda; -23,7423223; -46,69770159999999; /venda/imoveis/sp+sao-paulo+zona-sul+jd-edda/
+Jardim São Bernardo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Sao Bernardo; -23,756083; -46,701104; /venda/imoveis/sp+sao-paulo+zona-sul+jd-s-bernardo/
+Parque Residencial Cocaia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Parque Residencial Cocaia; -23,7053331; -46,6488034; /venda/imoveis/sp+sao-paulo+zona-sul+pq-resid-cocaia/
+Vila Narciso; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Narciso; -23,7497113; -46,6675163; /venda/imoveis/sp+sao-paulo+zona-sul+vl-narciso/
+Guaianases; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Guaianases; -23,535408; -46,407476; /venda/imoveis/sp+sao-paulo+zona-leste+guaianases/
+Jardim São Carlos; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Sao Carlos; -23,531143; -46,568034; /venda/imoveis/sp+sao-paulo+zona-leste+jd-s-carlos/
+Jardim São Luís; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Sao Luis; -23,651376; -46,733056; /venda/imoveis/sp+sao-paulo+zona-sul+jd-s-luis/
+Jardim São Paulo; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Sao Paulo; -23,4867; -46,612492; /venda/imoveis/sp+sao-paulo+zona-norte+jd-s-paulo/
+Jardim Soares; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Soares; -23,548027; -46,404474; /venda/imoveis/sp+sao-paulo+zona-leste+jd-soares/
+Vila Popular; ; BR>Sao Paulo>NULL>Itapetininga>Barrios>Vila Popular; -23,5553923; -48,01341499999999; /venda/imoveis/sp+itapetininga++vl-popular/
+Iguatemi; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Iguatemi; -21,189826; -47,789657; /venda/imoveis/sp+ribeirao-preto++iguatemi/
+Terceira Divisão; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Terceira Divisao; -23,6211438; -46,4164819; /venda/imoveis/sp+sao-paulo+zona-leste+terceira-divisao/
+Ipiranga; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Ipiranga; -23,61052; -46,613229; /venda/imoveis/sp+sao-paulo+zona-sul+ipiranga/
+Alto do Ipiranga; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Alto do Ipiranga; -21,15374; -47,829148; /venda/imoveis/sp+ribeirao-preto++alto-do-ipiranga/
+Sacomã; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Sacoma; -23,614995; -46,596954; /venda/imoveis/sp+sao-paulo+zona-sul+sacoma/
+Vila Carioca; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Carioca; -23,60379; -46,586811; /venda/imoveis/sp+sao-paulo+zona-sul+vl-carioca/
+Vila Dom Pedro I; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Dom Pedro I; -23,599413; -46,613832; /venda/imoveis/sp+sao-paulo+zona-sul+vl-d-pedro-i/
+Vila Monumento; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Monumento; -23,574508; -46,614132; /venda/imoveis/sp+sao-paulo+zona-sul+vl-monumento/
+Itaim Bibi; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Itaim Bibi; -23,583748; -46,678074; /venda/imoveis/sp+sao-paulo+zona-sul+itaim-bibi/
+Brooklin; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Brooklin; -23,608765; -46,69589; /venda/imoveis/sp+sao-paulo+zona-sul+brooklin/
+Cidade Monções; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Moncoes; -23,608765; -46,69589; /venda/imoveis/sp+sao-paulo+zona-sul+cid-moncoes/
+Vila Cordeiro; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Cordeiro; -23,617466; -46,693475; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-cordeiro/
+Vila Olímpia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Olimpia; -23,598157; -46,68293; /venda/imoveis/sp+sao-paulo+zona-sul+vl-olimpia/
+Itaim Paulista; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Itaim Paulista; -23,500719; -46,395185; /venda/imoveis/sp+sao-paulo+zona-leste+itaim-paulista/
+Cidade Kemel; ; BR>Sao Paulo>NULL>Poa>Barrios>Cidade Kemel; -23,514752; -46,361869; /venda/imoveis/sp+poa++cid-kemel/
+Jardim Camargo; ; BR>Sao Paulo>NULL>Mogi Guacu>Barrios>Jardim Camargo; -22,364696; -46,934074; /venda/imoveis/sp+mogi-guacu++jd-camargo/
+Jardim das Oliveiras; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim das Oliveiras; -20,7752964; -49,4094503; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-das-oliveiras/
+Jardim Nélia; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Nelia; -23,509602; -46,3828667; /venda/imoveis/sp+sao-paulo+zona-leste+jd-nelia/
+Jardim Silva Teles; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Silva Teles; -23,497414; -46,409277; /venda/imoveis/sp+sao-paulo+zona-leste+jd-silva-teles/
+Jardim Virgínia; ; BR>Sao Paulo>NULL>Itatiba>Barrios>Jardim Virginia; -22,9863178; -46,850718; /venda/imoveis/sp+itatiba++jd-virginia/
+Vila Alabama; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Alabama; -23,495611; -46,39727; /venda/imoveis/sp+sao-paulo+zona-leste+vl-alabama/
+Vila Carolina; ; BR>Sao Paulo>NULL>Bauru>Barrios>Vila Carolina; -22,323045; -49,029955; /venda/imoveis/sp+bauru++vl-carolina/
+Itaquera; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Itaquera; -23,555304; -46,45341; /venda/imoveis/sp+sao-paulo+zona-leste+itaquera/
+Jardim Itapemirim; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Itapemirim; -23,5316139; -46,4597353; /venda/imoveis/sp+sao-paulo+zona-leste+jd-itapemirim/
+Jardim Redil; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Redil; -23,53527; -46,44291; /venda/imoveis/sp+sao-paulo+zona-leste+jd-redil/
+Vila Carmosina; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Carmosina; -23,555304; -46,45341; /venda/imoveis/sp+sao-paulo+zona-leste+vl-carmosina/
+Vila Santa Terezinha; ; BR>Sao Paulo>NULL>Itu>Barrios>Vila Santa Terezinha; -23,279653; -47,301555; /venda/imoveis/sp+itu++vl-sta-terezinha/
+Vila Santana; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Santana; -23,674047; -46,679588; /venda/imoveis/sp+sao-paulo+zona-leste+vl-santana/
+Jabaquara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jabaquara; -23,638297; -46,657258; /venda/imoveis/sp+sao-paulo+zona-sul+jabaquara/
+Americanópolis; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Americanopolis; -23,676237; -46,649541; /venda/imoveis/sp+sao-paulo+zona-sul+americanopolis/
+Cidade Domitila; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Domitila; -23,6624014; -46,6513291; /venda/imoveis/sp+sao-paulo+zona-sul+cid-domitila/
+Cidade Vargas; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Vargas; -23,655209; -46,638636; /venda/imoveis/sp+sao-paulo+zona-sul+cid-vargas/
+Jardim Bom Clima; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Jardim Bom Clima; -23,453346; -46,518669; /venda/imoveis/sp+guarulhos++jd-bom-clima/
+Jardim Itacolomi; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Itacolomi; -23,6649002; -46,6566541; /venda/imoveis/sp+sao-paulo+zona-sul+jd-itacolomi/
+Jardim Lourdes; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Lourdes; -23,523424; -46,402073; /venda/imoveis/sp+sao-paulo+zona-leste+jd-lourdes/
+Jardim Oriental; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Oriental; -23,645911; -46,647305; /venda/imoveis/sp+sao-paulo+zona-sul+jd-oriental/
+Jardim Vila Rica; ; BR>Sao Paulo>NULL>Santo Andre>Barrios>Jardim Vila Rica; -23,710832; -46,503027; /venda/imoveis/sp+santo-andre++jd-vl-rica/
+Vila Alexandrina; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Vila Alexandrina; -23,1627564; -45,8938688; /venda/imoveis/sp+sao-jose-dos-campos++vl-alexandrina/
+Vila Babilônia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Babilonia; -23,6449967; -46,6542406; /venda/imoveis/sp+sao-paulo+zona-sul+vl-babilonia/
+Vila Campestre; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Campestre; -23,652321; -46,658595; /venda/imoveis/sp+sao-paulo+zona-sul+vl-campestre/
+Vila Clara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Clara; -23,5505199; -46,63330939999999; /venda/imoveis/sp+sao-paulo+zona-sul+vl-clara/
+Vila do Encontro; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila do Encontro; -23,657363; -46,634937; /venda/imoveis/sp+sao-paulo+zona-sul+vl-do-encontro/
+Vila Guarani; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Guarani; -23,640527; -46,635762; /venda/imoveis/sp+sao-paulo+zona-sul+vl-guarani/
+Vila Imperial; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Vila Imperial; -20,815894; -49,389724; /venda/imoveis/sp+sao-jose-do-rio-preto++vl-imperial/
+Vila Mascote; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Mascote; -23,646411; -46,666913; /venda/imoveis/sp+sao-paulo+zona-sul+vl-mascote/
+Vila Mira; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Mira; -23,652694; -46,651526; /venda/imoveis/sp+sao-paulo+zona-sul+vl-mira/
+Vila Paulista; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Paulista; -23,642354; -46,662085; /venda/imoveis/sp+sao-paulo+zona-sul+vl-paulista/
+Vila Santa Catarina; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Santa Catarina; -23,652321; -46,658595; /venda/imoveis/sp+sao-paulo+zona-sul+vl-sta-catarina/
+Jaçanã; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jacana; -23,461381; -46,572853; /venda/imoveis/sp+sao-paulo+zona-norte+jacana/
+Parque Edu Chaves; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Edu Chaves; -23,476888; -46,564643; /venda/imoveis/sp+sao-paulo+zona-norte+pq-edu-chaves/
+Jaguara; ; BR>Minas Gerais>NULL>Lagoa Santa>Barrios>Jaguara; -19,6303019; -43,89830310000001; /venda/imoveis/mg+lagoa-santa++jaguara/
+Jardim Vieira; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim Vieira; -20,7942858; -49,3589692; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-vieira/
+Vila Jaguara; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Jaguara; -23,492536; -46,761755; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-jaguara/
+Vila Nilva; ; BR>Sao Paulo>NULL>Barueri>Barrios>Vila Nilva; -23,505184; -46,865561; /venda/imoveis/sp+barueri++vl-nilva/
+Vila Piauí; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Piaui; -23,501637; -46,758731; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-piaui/
+Jaguaré; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jaguare; -23,544951; -46,74699; /venda/imoveis/sp+sao-paulo+zona-oeste+jaguare/
+Parque Continental; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Parque Continental; -23,5422; -46,758731; /venda/imoveis/sp+sao-paulo+zona-oeste+pq-continental/
+Vila Lageado; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Lageado; -23,552463; -46,753895; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-lageado/
+Jaraguá; ; BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Jaragua; -19,861449; -43,955003; /venda/imoveis/mg+belo-horizonte++jaragua/
+Parque Taipas; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Taipas; -23,442826; -46,707365; /venda/imoveis/sp+sao-paulo+zona-norte+pq-taipas/
+Jardim Ângela; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Angela; -23,606413; -46,517465; /venda/imoveis/sp+sao-paulo+zona-leste+jd-angela/
+Cidade Ipava; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Cidade Ipava; -23,72313; -46,758617; /venda/imoveis/sp+sao-paulo+zona-sul+cid-ipava/
+Jardim Helena; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Jardim Helena; -21,192472; -47,735404; /venda/imoveis/sp+ribeirao-preto++jd-helena/
+Vila Itaim; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Itaim; -23,492393; -46,390195; /venda/imoveis/sp+sao-paulo+zona-leste+vl-itaim/
+Vila Mara; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Mara; -23,479468; -46,421293; /venda/imoveis/sp+sao-paulo+zona-leste+vl-mara/
+Jardim Paulista; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Paulista; -23,573979; -46,660691; /venda/imoveis/sp+sao-paulo+zona-sul+jd-paulista/
+Jardins; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardins; -23,559397; -46,668759; /venda/imoveis/sp+sao-paulo+zona-oeste+jardins/
+Jardim América; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim America; -23,569371; -46,671978; /venda/imoveis/sp+sao-paulo+zona-sul+jd-america/
+Jardim São Luís; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Sao Luis; -23,651376; -46,733056; /venda/imoveis/sp+sao-paulo+zona-sul+jd-s-luis/
+Guarapiranga; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Guarapiranga; -23,68189; -46,741805; /venda/imoveis/sp+sao-paulo+zona-sul+guarapiranga/
+Jardim Guarujá; ; BR>Sao Paulo>NULL>Marilia>Barrios>Jardim Guaruja; -22,236858; -49,9306029; /venda/imoveis/sp+marilia++jd-guaruja/
+Vila das Belezas; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila das Belezas; -23,640948; -46,742409; /venda/imoveis/sp+sao-paulo+zona-sul+vl-das-belezas/
+Lapa; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Lapa; -23,534132; -46,700721; /venda/imoveis/sp+sao-paulo+zona-oeste+lapa/
+Alto da Lapa; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Alto da Lapa; -23,528989; -46,720086; /venda/imoveis/sp+sao-paulo+zona-oeste+alto-da-lapa/
+Bela Aliança; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Bela Alianca; -23,522219; -46,726697; /venda/imoveis/sp+sao-paulo+zona-oeste+bela-alianca/
+Vila Anastácio; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Anastacio; -23,515265; -46,720175; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-anastacio/
+Vila Ipojuca; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Ipojuca; -23,522734; -46,711419; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-ipojuca/
+Vila Romana; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Romana; -23,515253; -46,690828; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-romana/
+Liberdade; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Liberdade; -23,559917; -46,631259; /venda/imoveis/sp+sao-paulo+centro+liberdade/
+Aclimação; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Aclimacao; -23,571487; -46,630972; /venda/imoveis/sp+sao-paulo+centro+aclimacao/
+Limão; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Limao; -23,501845; -46,669327; /venda/imoveis/sp+sao-paulo+zona-norte+limao/
+Conjunto Residencial Novo Pacaembu; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Conjunto Residencial Novo Pacaembu; -23,538197; -46,657258; /venda/imoveis/sp+sao-paulo+zona-norte+conj-resid-nv-pacaembu/
+Jardim das Graças; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim das Gracas; -23,506842; -46,683814; /venda/imoveis/sp+sao-paulo+zona-norte+jd-das-gracas/
+Jardim Pereira Leite; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Pereira Leite; -23,507445; -46,6717412; /venda/imoveis/sp+sao-paulo+zona-norte+jd-pereira-leite/
+Sítio do Morro; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Sitio do Morro; -23,5018448; -46,66932689999999; /venda/imoveis/sp+sao-paulo+zona-norte+sitio-do-morro/
+Vila Barbosa; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Barbosa; -23,493372; -46,426691; /venda/imoveis/sp+sao-paulo+zona-norte+vl-barbosa/
+Vila Carbone; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Carbone; -23,507445; -46,6717412; /venda/imoveis/sp+sao-paulo+zona-norte+vl-carbone/
+Vila Espanhola; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Espanhola; -23,478008; -46,669327; /venda/imoveis/sp+sao-paulo+zona-norte+vl-espanhola/
+Vila Prado; ; BR>Sao Paulo>NULL>Sao Carlos>Barrios>Vila Prado; -22,022932; -47,895325; /venda/imoveis/sp+sao-carlos++vl-prado/
+Vila Santista; ; BR>Sao Paulo>NULL>Atibaia>Barrios>Vila Santista; -23,116951; -46,542141; /venda/imoveis/sp+atibaia++vl-santista/
+Mandaqui; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Mandaqui; -23,472296; -46,659671; /venda/imoveis/sp+sao-paulo+zona-norte+mandaqui/
+Chácara do Encosto; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Chacara do Encosto; -23,475772; -46,628303; /venda/imoveis/sp+sao-paulo+zona-norte+ch-do-encosto/
+Horto Florestal; ; BR>Bahia>NULL>Salvador>Barrios>Horto Florestal; -13,001605; -38,488278; /venda/imoveis/ba+salvador++horto-florestal/
+Lauzane Paulista; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Lauzane Paulista; -23,478505; -46,644248; /venda/imoveis/sp+sao-paulo+zona-norte+lauzane-paulista/
+Marsilac; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Marsilac; -23,935061; -46,759106; /venda/imoveis/sp+sao-paulo+zona-sul+marsilac/
+Moema; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Moema; -23,612476; -46,661547; /venda/imoveis/sp+sao-paulo+zona-sul+moema/
+Ibirapuera; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Ibirapuera; -23,583602; -46,664499; /venda/imoveis/sp+sao-paulo+zona-sul+ibirapuera/
+Indianópolis; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Indianopolis; -23,612476; -46,661547; /venda/imoveis/sp+sao-paulo+zona-sul+indianopolis/
+Vila Nova Conceição; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Nova Conceicao; -23,591783; -46,672733; /venda/imoveis/sp+sao-paulo+zona-sul+vl-nv-conceicao/
+Vila Uberabinha; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Uberabinha; -23,599007; -46,668074; /venda/imoveis/sp+sao-paulo+zona-sul+vl-uberabinha/
+Hipódromo; ; BR>Pernambuco>NULL>Recife>Barrios>Hipodromo; -8,029668; -34,893451; /venda/imoveis/pe+recife++hipodromo/
+Parque da Mooca; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque da Mooca; -23,571407; -46,590214; /venda/imoveis/sp+sao-paulo+zona-leste+pq-da-mooca/
+Morumbi; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Morumbi; -23,627616; -46,729718; /venda/imoveis/sp+sao-paulo+zona-sul+morumbi/
+Cidade Jardim; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>CIDADE JARDIM; -23,585958; -46,706255; /venda/imoveis/sp+sao-paulo+zona-sul+cid-jardim/
+Fazenda Morumbi; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Fazenda Morumbi; -23,616283; -46,717634; /venda/imoveis/sp+sao-paulo+zona-sul+fazenda-morumbi/
+Jardim Everest; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Everest; -23,577151; -46,70457; /venda/imoveis/sp+sao-paulo+zona-sul+jd-everest/
+Jardim Leonor; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Leonor; -23,598051; -46,719873; /venda/imoveis/sp+sao-paulo+zona-sul+jd-leonor/
+Jardim Silvia; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Silvia; -23,598186; -46,704949; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-silvia/
+Real Parque; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Real Parque; -23,608868; -46,704072; /venda/imoveis/sp+sao-paulo+zona-sul+real-parque/
+Rolinópolis; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Rolinopolis; -23,5822954; -46,7297178; /venda/imoveis/sp+sao-paulo+zona-oeste+rolinopolis/
+Vila Morumbi; ; BR>Mato Grosso do Sul>NULL>Campo Grande>Barrios>Vila Morumbi; -20,498695; -54,588935; /venda/imoveis/ms+campo-grande++vl-morumbi/
+Vila Tramontano; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Tramontano; -23,615714; -46,707365; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-tramontano/
+Parelheiros; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Parelheiros; -23,827901; -46,736314; /venda/imoveis/sp+sao-paulo+zona-sul+parelheiros/
+Barragem; ; BR>Santa Catarina>NULL>Rio do Sul>Barrios>Barragem; -27,242657; -49,673272; /venda/imoveis/sc+rio-do-sul++barragem/
+Colônia; ; BR>Sao Paulo>NULL>Jundiai>Barrios>Colonia; -23,181377; -46,852414; /venda/imoveis/sp+jundiai++colonia/
+Engenho Velho; ; BR>Pernambuco>NULL>Jaboatao dos Guararapes>Barrios>Engenho Velho; -8,106902; -35,00496; /venda/imoveis/pe+jaboatao-dos-guararapes++engenho-velho/
+Recanto Campo Belo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Recanto Campo Belo; -23,809452; -46,737954; /venda/imoveis/sp+sao-paulo+zona-sul+recanto-campo-belo/
+Vila Isabel; Zona Norte; BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel; -22,916599; -43,25018; /venda/imoveis/rj+rio-de-janeiro+zona-norte+vl-isabel/
+Vila Roschel; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Roschel; -23,8392839; -46,737998; /venda/imoveis/sp+sao-paulo+zona-sul+vl-roschel/
+Pari; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Pari; -23,524611; -46,604187; /venda/imoveis/sp+sao-paulo+centro+pari/
+Canindé; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Caninde; -23,527493; -46,618927; /venda/imoveis/sp+sao-paulo+centro+caninde/
+Jardim Nossa Senhora do Carmo; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Nossa Senhora do Carmo; -23,567812; -46,472324; /venda/imoveis/sp+sao-paulo+zona-leste+jd-n-sra-do-carmo/
+Penha; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Penha; -23,530645; -46,539132; /venda/imoveis/sp+sao-paulo+zona-leste+penha/
+Vila Esperança; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Esperanca; -23,522292; -46,515059; /venda/imoveis/sp+sao-paulo+zona-leste+vl-esperanca/
+Vila Ré; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Re; -23,528785; -46,498608; /venda/imoveis/sp+sao-paulo+zona-leste+vl-re/
+Vila Salete; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Salete; -23,5505199; -46,63330939999999; /venda/imoveis/sp+sao-paulo+zona-leste+vl-salete/
+Perdizes; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Perdizes; -23,536902; -46,674317; /venda/imoveis/sp+sao-paulo+zona-oeste+perdizes/
+Jardim Vera Cruz; ; BR>Sao Paulo>NULL>Sorocaba>Barrios>Jardim Vera Cruz; -23,511885; -47,49441; /venda/imoveis/sp+sorocaba++jd-vera-cruz/
+Pompeia; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>POMPEIA; -23,536902; -46,674317; /venda/imoveis/sp+sao-paulo+zona-oeste+pompeia/
+Sumaré; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Sumare; -23,548709; -46,692871; /venda/imoveis/sp+sao-paulo+zona-oeste+sumare/
+Vila Anglo Brasileira; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Anglo Brasileira; -23,538785; -46,693475; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-anglo-brasileira/
+Pinheiros; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Pinheiros; -23,563579; -46,691607; /venda/imoveis/sp+sao-paulo+zona-oeste+pinheiros/
+Jardim das Bandeiras; ; BR>Sao Paulo>NULL>Campinas>Barrios>Jardim das Bandeiras; -22,952719; -47,091566; /venda/imoveis/sp+campinas++jd-das-bandeiras/
+Jardim Europa; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Europa; -23,577302; -46,680228; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-europa/
+Jardim Paulistano; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Paulistano; -23,569371; -46,671978; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-paulistano/
+Jardim Viana; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Viana; -23,6103; -46,718591; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-viana/
+Sumarezinho; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Sumarezinho; -23,538785; -46,693475; /venda/imoveis/sp+sao-paulo+zona-oeste+sumarezinho/
+Ponte Rasa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Ponte Rasa; -23,51786; -46,488592; /venda/imoveis/sp+sao-paulo+zona-leste+pte-rasa/
+Burgo Paulista; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Burgo Paulista; -23,589992; -46,744676; /venda/imoveis/sp+sao-paulo+zona-leste+burgo-paulista/
+Jardim Cotinha; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Cotinha; -23,509375; -46,479572; /venda/imoveis/sp+sao-paulo+zona-leste+jd-cotinha/
+Jardim Laone; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Laone; -23,512525; -46,47837; /venda/imoveis/sp+sao-paulo+zona-leste+jd-laone/
+Jardim Lisboa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Lisboa; -23,5192092; -46,4976131; /venda/imoveis/sp+sao-paulo+zona-leste+jd-lisboa/
+Jardim Penha; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Penha; -23,506093; -46,495809; /venda/imoveis/sp+sao-paulo+zona-leste+jd-penha/
+Jardim Popular; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Popular; -23,516571; -46,505433; /venda/imoveis/sp+sao-paulo+zona-leste+jd-popular/
+Jardim Santo Onofre; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Jardim Santo Onofre; -23,2496984; -45,8321263; /venda/imoveis/sp+sao-jose-dos-campos++jd-sto-onofre/
+Jardim Soraia; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim Soraia; -20,8189395; -49,3524115; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-soraia/
+Jardim Três Marias; ; BR>Sao Paulo>NULL>Guaruja>Barrios>Jardim Tres Marias; -23,9837716; -46,2444462; /venda/imoveis/sp+guaruja++jd-tres-marias/
+Parque Penha; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Penha; -23,507889; -46,507839; /venda/imoveis/sp+sao-paulo+zona-leste+pq-penha/
+Parque Recreio; ; BR>Minas Gerais>NULL>Contagem>Barrios>Parque Recreio; -19,884621; -44,016939; /venda/imoveis/mg+contagem++pq-recreio/
+Vila Costa Melo; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Costa Melo; -23,517084; -46,51205; /venda/imoveis/sp+sao-paulo+zona-leste+vl-costa-melo/
+Vila Mirim; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Vila Mirim; -23,478568; -46,705553; /venda/imoveis/sp+sao-paulo+centro+vl-mirim/
+Vila Odete; ; BR>Sao Paulo>NULL>Diadema>Barrios>Vila Odete; -23,68087; -46,598981; /venda/imoveis/sp+diadema++vl-odete/
+Vila Santa Lúcia; ; BR>Sao Paulo>NULL>Limeira>Barrios>Vila Santa Lucia; -22,58379; -47,409754; /venda/imoveis/sp+limeira++vl-sta-lucia/
+Vila Stela; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Stela; -23,5234242; -46,4020726; /venda/imoveis/sp+sao-paulo+zona-leste+vl-stela/
+Vila União; ; BR>Ceara>NULL>Fortaleza>Barrios>Vila Uniao; -3,766602; -38,537104; /venda/imoveis/ce+fortaleza++vl-uniao/
+Raposo Tavares; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Raposo Tavares; -23,599321; -46,79631; /venda/imoveis/sp+sao-paulo+zona-oeste+raposo-tavares/
+Conjunto Promorar Raposo Tavares; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Conjunto Promorar Raposo Tavares; -23,588223; -46,802283; /venda/imoveis/sp+sao-paulo+zona-oeste+conj-promorar-raposo-tavares/
+Jardim Boa Vista; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Boa Vista; -23,581463; -46,791648; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-boa-vista/
+Jardim João XXIII; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Joao XXIII; -23,580606; -46,773244; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-joao-xxiii/
+Parque Ipê; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Parque Ipe; -23,581463; -46,791648; /venda/imoveis/sp+sao-paulo+zona-oeste+pq-ipe/
+República; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Republica; -23,545108; -46,642778; /venda/imoveis/sp+sao-paulo+centro+republica/
+Santa Efigênia; ; BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Santa Efigenia; -19,921475; -43,904474; /venda/imoveis/mg+belo-horizonte++sta-efigenia/
+Rio Pequeno; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Rio Pequeno; -23,564488; -46,753935; /venda/imoveis/sp+sao-paulo+zona-oeste+rio-pequeno/
+Cidade São Francisco; ; BR>Sao Paulo>NULL>Osasco>Barrios>Cidade Sao Francisco; -23,555189; -46,775664; /venda/imoveis/sp+osasco++cid-s-francisco/
+Jardim Adalgisa; ; BR>Sao Paulo>NULL>Araraquara>Barrios>Jardim Adalgisa; -21,7558269; -48,1635212; /venda/imoveis/sp+araraquara++jd-adalgisa/
+Jardim Ester Yolanda; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Ester Yolanda; -23,580491; -46,765987; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-ester-yolanda/
+Jardim Sarah; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Sarah; -23,57408; -46,762964; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-sarah/
+Vila Butantã; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Butanta; -23,56583; -46,744222; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-butanta/
+Sacomã; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Sacoma; -23,614995; -46,596954; /venda/imoveis/sp+sao-paulo+zona-sul+sacoma/
+Parque Bristol; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Parque Bristol; -23,644414; -46,599365; /venda/imoveis/sp+sao-paulo+zona-sul+pq-bristol/
+Vila das Mercês; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila das Merces; -23,620776; -46,608258; /venda/imoveis/sp+sao-paulo+zona-sul+vl-das-merces/
+Vila Liviero; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Liviero; -23,647165; -46,594685; /venda/imoveis/sp+sao-paulo+zona-sul+vl-liviero/
+Campos Elíseos; ; BR>Sao Paulo>NULL>Taubate>Barrios>Campos Eliseos; -23,040795; -45,552322; /venda/imoveis/sp+taubate++campos-eliseos/
+Santa Cecília; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Santa Cecilia; -23,532169; -46,645579; /venda/imoveis/sp+sao-paulo+centro+sta-cecilia/
+Santana; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Santana; -23,498996; -46,625592; /venda/imoveis/sp+sao-paulo+zona-norte+santana/
+Água Fria; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Agua Fria; -23,473904; -46,610817; /venda/imoveis/sp+sao-paulo+zona-norte+agua-fria/
+Chora Menino; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Chora Menino; -23,492179; -46,636143; /venda/imoveis/sp+sao-paulo+zona-norte+chora-menino/
+Jardim do Colégio; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim do Colegio; -23,676155; -46,778688; /venda/imoveis/sp+sao-paulo+zona-sul+jd-do-colegio/
+Santa Teresinha; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Santa Teresinha; -23,492179; -46,636143; /venda/imoveis/sp+sao-paulo+zona-norte+sta-teresinha/
+Vila Matias; ; BR>Sao Paulo>NULL>Santos>Barrios>Vila Matias; -23,946266; -46,327691; /venda/imoveis/sp+santos++vl-matias/
+Vila Pauliceia; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Pauliceia; -23,4867; -46,612492; /venda/imoveis/sp+sao-paulo+zona-norte+vl-pauliceia/
+Vila Santa Luzia; ; BR>Minas Gerais>NULL>Contagem>Barrios>Vila Santa Luzia; -19,8762006; -44,0166419; /venda/imoveis/mg+contagem++vl-sta-luzia/
+Vila Zélia; ; BR>Sao Paulo>NULL>Lorena>Barrios>Vila Zelia; -22,74372; -45,10436; /venda/imoveis/sp+lorena++vl-zelia/
+Santo Amaro; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Santo Amaro; -23,653663; -46,706693; /venda/imoveis/sp+sao-paulo+zona-sul+sto-amaro/
+Alto da Boa Vista; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Alto da Boa Vista; -21,198949; -47,81557; /venda/imoveis/sp+ribeirao-preto++alto-da-boa-vista/
+Chácara Flora; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Chacara Flora; -23,653663; -46,706693; /venda/imoveis/sp+sao-paulo+zona-sul+ch-flora/
+Chácara Monte Alegre; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Chacara Monte Alegre; -23,64499; -46,67657; /venda/imoveis/sp+sao-paulo+zona-sul+ch-monte-alegre/
+Granja Julieta; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Granja Julieta; -23,639297; -46,715217; /venda/imoveis/sp+sao-paulo+zona-sul+granja-julieta/
+Jardim Letícia; ; BR>Parana>NULL>Sao Jose dos Pinhais>Barrios>Jardim Leticia; -25,537689; -49,2220728; /venda/imoveis/pr+sao-jose-dos-pinhais++jd-leticia/
+Vila Gertrudes; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Gertrudes; -23,621491; -46,696494; /venda/imoveis/sp+sao-paulo+zona-sul+vl-gertrudes/
+São Domingos; ; BR>Rio de Janeiro>NULL>Niteroi>Barrios>Sao Domingos; -22,8997; -43,129895; /venda/imoveis/rj+niteroi++s-domingos/
+Jardim Vista Linda; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Vista Linda; -23,4872127; -46,7514763; /venda/imoveis/sp+sao-paulo+zona-sul+jd-vista-linda/
+Vila Jaraguá; ; BR>Goias>NULL>Goiania>Barrios>Vila Jaragua; -16,653396; -49,255; /venda/imoveis/go+goiania++vl-jaragua/
+São Lucas; ; BR>Minas Gerais>NULL>Belo Horizonte>Barrios>Sao Lucas; -19,931281; -43,921023; /venda/imoveis/mg+belo-horizonte++s-lucas/
+Jardim Independência; ; BR>Sao Paulo>NULL>Taubate>Barrios>Jardim Independencia; -23,040549; -45,57828; /venda/imoveis/sp+taubate++jd-independencia/
+Parque São Lucas; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Sao Lucas; -23,590279; -46,546356; /venda/imoveis/sp+sao-paulo+zona-leste+pq-s-lucas/
+Vila Ema; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Vila Ema; -23,205804; -45,900404; /venda/imoveis/sp+sao-jose-dos-campos++vl-ema/
+Vila Rosa; ; BR>Goias>NULL>Goiania>Barrios>Vila Rosa; -16,743916; -49,293016; /venda/imoveis/go+goiania++vl-rosa/
+São Mateus; ; BR>Minas Gerais>NULL>Juiz de Fora>Barrios>Sao Mateus; -21,780382; -43,364717; /venda/imoveis/mg+juiz-de-fora++s-mateus/
+São Miguel Paulista; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Sao Miguel Paulista; -23,494819; -46,441108; /venda/imoveis/sp+sao-paulo+zona-leste+s-miguel-paulista/
+Cidade Nitro Operária; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Nitro Operaria; -23,49273; -46,4351; /venda/imoveis/sp+sao-paulo+zona-leste+cid-nitro-operaria/
+Cidade Nova São Miguel; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Nova Sao Miguel; -23,508987; -46,435701; /venda/imoveis/sp+sao-paulo+zona-leste+cid-nv-s-miguel/
+Vila Rosária; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Rosaria; -23,453379; -46,572385; /venda/imoveis/sp+sao-paulo+zona-leste+vl-rosaria/
+São Rafael; ; BR>Rio Grande do Sul>NULL>Canela>Barrios>Sao Rafael; -29,343224; -50,79493; /venda/imoveis/rs+canela++s-rafael/
+Jardim Santo André; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Santo Andre; -23,631607; -46,442906; /venda/imoveis/sp+sao-paulo+zona-leste+jd-sto-andre/
+Parque São Rafael; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Sao Rafael; -23,629903; -46,470267; /venda/imoveis/sp+sao-paulo+zona-leste+pq-s-rafael/
+Sapopemba; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Sapopemba; -23,584422; -46,529501; /venda/imoveis/sp+sao-paulo+zona-leste+sapopemba/
+Jardim Grimaldi; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Grimaldi; -23,597633; -46,514457; /venda/imoveis/sp+sao-paulo+zona-leste+jd-grimaldi/
+Jardim Iva; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Iva; -23,590142; -46,516864; /venda/imoveis/sp+sao-paulo+zona-leste+jd-iva/
+Jardim Mimar; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Mimar; -23,607703; -46,522881; /venda/imoveis/sp+sao-paulo+zona-leste+jd-mimar/
+Fazenda da Juta; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Fazenda da Juta; -23,619621; -46,490532; /venda/imoveis/sp+sao-paulo+zona-leste+fazenda-da-juta/
+Vila Nova Brasília; ; BR>Sao Paulo>NULL>Cordeiropolis>Barrios>Vila Nova Brasilia; -22,5796766; -47,3737151; /venda/imoveis/sp+cordeiropolis++vl-nv-brasilia/
+Vila Primavera; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Primavera; -23,573979; -46,660691; /venda/imoveis/sp+sao-paulo+zona-leste+vl-primavera/
+Saúde; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Saude; -23,626583; -46,623479; /venda/imoveis/sp+sao-paulo+zona-sul+saude/
+Chácara Inglesa; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Chacara Inglesa; -23,604993; -46,62941; /venda/imoveis/sp+sao-paulo+zona-sul+ch-inglesa/
+Mirandópolis; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Mirandopolis; -23,607064; -46,642778; /venda/imoveis/sp+sao-paulo+zona-sul+mirandopolis/
+Planalto Paulista; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Planalto Paulista; -23,618631; -46,648275; /venda/imoveis/sp+sao-paulo+zona-sul+planalto-paulista/
+Vila Monte Alegre; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Vila Monte Alegre; -21,163974; -47,839025; /venda/imoveis/sp+ribeirao-preto++vl-monte-alegre/
+Sé; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Se; -23,552849; -46,630715; /venda/imoveis/sp+sao-paulo+centro+se/
+Tatuapé; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Tatuape; -23,535245; -46,575463; /venda/imoveis/sp+sao-paulo+zona-leste+tatuape/
+Jardim Alice; ; BR>Sao Paulo>NULL>Indaiatuba>Barrios>Jardim Alice; -23,110757; -47,223394; /venda/imoveis/sp+indaiatuba++jd-alice/
+Parque São Jorge; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Sao Jorge; -23,524712; -46,563216; /venda/imoveis/sp+sao-paulo+zona-leste+pq-s-jorge/
+Vila Azevedo; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Azevedo; -23,535245; -46,575463; /venda/imoveis/sp+sao-paulo+zona-leste+vl-azevedo/
+Vila Brasil; ; BR>Parana>NULL>Londrina>Barrios>Vila Brasil; -23,324824; -51,157233; /venda/imoveis/pr+londrina++vl-brasil/
+Vila Gomes Cardim; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Gomes Cardim; -23,54514; -46,563722; /venda/imoveis/sp+sao-paulo+zona-leste+vl-gomes-cardim/
+Vila Moreira; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Vila Moreira; -23,471141; -46,539132; /venda/imoveis/sp+guarulhos++vl-moreira/
+Vila Zilda; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Vila Zilda; -20,7963459; -49,3919742; /venda/imoveis/sp+sao-jose-do-rio-preto++vl-zilda/
+Tremembé; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Tremembe; -23,432368; -46,590977; /venda/imoveis/sp+sao-paulo+zona-norte+tremembe/
+Bortolândia; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Bortolandia; -23,4546168; -46,5963514; /venda/imoveis/sp+sao-paulo+zona-norte+bortolandia/
+Parque Palmas do Tremembé; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Palmas do Tremembe; -23,467489; -46,610034; /venda/imoveis/sp+sao-paulo+zona-norte+pq-palmas-do-tremembe/
+Vila Albertina; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Albertina; -23,502188; -46,691059; /venda/imoveis/sp+sao-paulo+zona-norte+vl-albertina/
+Vila Paulistana; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Paulistana; -23,451374; -46,592133; /venda/imoveis/sp+sao-paulo+zona-norte+vl-paulistana/
+Cachoeira; ; BR>Parana>NULL>Curitiba>Barrios>Cachoeira; -25,369036; -49,236496; /venda/imoveis/pr+curitiba++cachoeira/
+Jardim Barro Branco; ; BR>Sao Paulo>NULL>Cotia>Barrios>Jardim Barro Branco; -23,6071099; -46,8919243; /venda/imoveis/sp+cotia++jd-barro-branco/
+Jardim Entre Serras; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Entre Serras; -23,456911; -46,616676; /venda/imoveis/sp+sao-paulo+zona-norte+jd-entre-serras/
+Jardim França; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Franca; -23,476373; -46,616243; /venda/imoveis/sp+sao-paulo+zona-norte+jd-franca/
+Jardim Kherlakian; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Kherlakian; -23,473904; -46,610817; /venda/imoveis/sp+sao-paulo+zona-norte+jd-kherlakian/
+Parada Inglesa; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parada Inglesa; -23,488882; -46,604187; /venda/imoveis/sp+sao-paulo+zona-norte+parada-inglesa/
+Parque Rodrigues Alves; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Rodrigues Alves; -23,488794; -46,598762; /venda/imoveis/sp+sao-paulo+zona-norte+pq-rodrigues-alves/
+Parque Vitória; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Vitoria; -23,471259; -46,594544; /venda/imoveis/sp+sao-paulo+zona-norte+pq-vitoria/
+Tucuruvi; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Tucuruvi; -23,475695; -46,603057; /venda/imoveis/sp+sao-paulo+zona-norte+tucuruvi/
+Vila Dom Pedro II; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Dom Pedro II; -23,488882; -46,604187; /venda/imoveis/sp+sao-paulo+zona-norte+vl-d-pedro-ii/
+Vila Gustavo; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Gustavo; -23,485985; -46,60838; /venda/imoveis/sp+sao-paulo+zona-norte+vl-gustavo/
+Vila Mazzei; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Mazzei; -23,475695; -46,603057; /venda/imoveis/sp+sao-paulo+zona-norte+vl-mazzei/
+Vila Nivi; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Nivi; -23,477571; -46,592133; /venda/imoveis/sp+sao-paulo+zona-norte+vl-nivi/
+Vila Pedrosa; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Pedrosa; -23,482471; -46,597484; /venda/imoveis/sp+sao-paulo+zona-norte+vl-pedrosa/
+Vila Porto; ; BR>Sao Paulo>NULL>Barueri>Barrios>Vila Porto; -23,5000297; -46,8670753; /venda/imoveis/sp+barueri++vl-porto/
+Vila Andrade; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>VILA ANDRADE; -23,631509; -46,736743; /venda/imoveis/sp+sao-paulo+zona-sul+vl-andrade/
+Panamby; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Panamby; -23,631509; -46,736743; /venda/imoveis/sp+sao-paulo+zona-sul+panamby/
+Paraisópolis; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Paraisopolis; -23,614623; -46,726256; /venda/imoveis/sp+sao-paulo+zona-sul+paraisopolis/
+Vila Curuçá; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Curuca; -23,509702; -46,416739; /venda/imoveis/sp+sao-paulo+zona-leste+vl-curuca/
+Jardim Nazareth; ; BR>Sao Paulo>NULL>Sao Jose do Rio Preto>Barrios>Jardim Nazareth; -20,782024; -49,363263; /venda/imoveis/sp+sao-jose-do-rio-preto++jd-nazareth/
+Jardim Rosina; ; BR>Sao Paulo>NULL>Maua>Barrios>Jardim Rosina; -23,661254; -46,461538; /venda/imoveis/sp+maua++jd-rosina/
+Jardim Senice; Centro; BR>Sao Paulo>NULL>Sao Paulo>Centro>Jardim Senice; -23,516428; -46,409277; /venda/imoveis/sp+sao-paulo+centro+jd-senice/
+Vila Conceição; ; BR>Rio Grande do Sul>NULL>Porto Alegre>Barrios>Vila Conceicao; -30,120531; -51,256636; /venda/imoveis/rs+porto-alegre++vl-conceicao/
+Vila Formosa; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Formosa; -23,567186; -46,543792; /venda/imoveis/sp+sao-paulo+zona-leste+vl-formosa/
+Chácara Belenzinho; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Chacara Belenzinho; -23,576151; -46,535824; /venda/imoveis/sp+sao-paulo+zona-leste+ch-belenzinho/
+Jardim Anália Franco; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Analia Franco; -23,5603; -46,566217; /venda/imoveis/sp+sao-paulo+zona-leste+jd-analia-franco/
+Jardim Iara; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Iara; -23,4553244; -46,604943; /venda/imoveis/sp+sao-paulo+zona-norte+jd-iara/
+Jardim Têxtil; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Textil; -23,55734; -46,545754; /venda/imoveis/sp+sao-paulo+zona-leste+jd-textil/
+Parque Cruzeiro do Sul; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque Cruzeiro do Sul; -23,4944; -46,462139; /venda/imoveis/sp+sao-paulo+zona-leste+pq-cruzeiro-do-sul/
+Vila Antonina; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Antonina; -23,554432; -46,549592; /venda/imoveis/sp+sao-paulo+zona-leste+vl-antonina/
+Vila Cruzeiro; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Cruzeiro; -23,642172; -46,711732; /venda/imoveis/sp+sao-paulo+zona-sul+vl-cruzeiro/
+Vila Mafra; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Mafra; -23,560139; -46,546958; /venda/imoveis/sp+sao-paulo+zona-leste+vl-mafra/
+Vila Olinda; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Olinda; -23,576399; -46,535308; /venda/imoveis/sp+sao-paulo+zona-leste+vl-olinda/
+Vila Guilherme; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Guilherme; -23,514403; -46,607448; /venda/imoveis/sp+sao-paulo+zona-norte+vl-guilherme/
+Carandiru; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Carandiru; -23,503722; -46,615177; /venda/imoveis/sp+sao-paulo+zona-norte+carandiru/
+Jardim Sara; ; BR>Sao Paulo>NULL>Ferraz de Vasconcelos>Barrios>Jardim Sara; -23,553178; -46,363068; /venda/imoveis/sp+ferraz-de-vasconcelos++jd-sara/
+Vila Isolina Mazzei; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Isolina Mazzei; -23,496898; -46,602011; /venda/imoveis/sp+sao-paulo+zona-norte+vl-isolina-mazzei/
+Vila Leonor; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Vila Leonor; -23,480722; -46,542743; /venda/imoveis/sp+guarulhos++vl-leonor/
+Vila Paiva; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Paiva; -23,50234; -46,601776; /venda/imoveis/sp+sao-paulo+zona-norte+vl-paiva/
+Vila Jacuí; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Jacui; -23,515285; -46,441633; /venda/imoveis/sp+sao-paulo+zona-leste+vl-jacui/
+Jardim Pedro José Nunes; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Pedro Jose Nunes; -23,5056426; -46,46676919999999; /venda/imoveis/sp+sao-paulo+zona-leste+jd-pedro-jose-nunes/
+Jardim Ruth; ; BR>Sao Paulo>NULL>Itapevi>Barrios>Jardim Ruth; -23,5399981; -46,9926574; /venda/imoveis/sp+itapevi++jd-ruth/
+Vila Leopoldina; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Leopoldina; -23,53243; -46,733589; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-leopoldina/
+Jardim Humaitá; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Humaita; -23,522084; -46,743618; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-humaita/
+Vila Maria; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Maria; -23,517559; -46,589088; /venda/imoveis/sp+sao-paulo+zona-norte+vl-maria/
+Jardim Andaraí; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Andarai; -23,519258; -46,578016; /venda/imoveis/sp+sao-paulo+zona-norte+jd-andarai/
+Jardim Japão; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Japao; -23,501857; -46,57671; /venda/imoveis/sp+sao-paulo+zona-norte+jd-japao/
+Parque Novo Mundo; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Novo Mundo; -23,517397; -46,567929; /venda/imoveis/sp+sao-paulo+zona-norte+pq-nv-mundo/
+Parque Vila Maria; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Parque Vila Maria; -23,5201958; -46,5776724; /venda/imoveis/sp+sao-paulo+zona-norte+pq-vl-maria/
+Vila Maria Alta; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Maria Alta; -23,501613; -46,597334; /venda/imoveis/sp+sao-paulo+zona-norte+vl-maria-alta/
+Vila Mariana; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Mariana; -23,589702; -46,634638; /venda/imoveis/sp+sao-paulo+zona-sul+vl-mariana/
+Chácara Klabin; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Chacara Klabin; -23,591682; -46,625891; /venda/imoveis/sp+sao-paulo+zona-sul+ch-klabin/
+Jardim Aurélia; ; BR>Sao Paulo>NULL>Campinas>Barrios>Jardim Aurelia; -22,901033; -47,089666; /venda/imoveis/sp+campinas++jd-aurelia/
+Jardim da Glória; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim da Gloria; -23,580103; -46,621606; /venda/imoveis/sp+sao-paulo+zona-sul+jd-da-gloria/
+Jardim Lutfalla; ; BR>Sao Paulo>NULL>Sao Carlos>Barrios>Jardim Lutfalla; -22,005228; -47,893384; /venda/imoveis/sp+sao-carlos++jd-lutfalla/
+Paraíso; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Paraiso; -23,589702; -46,634638; /venda/imoveis/sp+sao-paulo+zona-sul+paraiso/
+Vila Clementino; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Clementino; -23,598316; -46,643963; /venda/imoveis/sp+sao-paulo+zona-sul+vl-clementino/
+Vila Matilde; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Matilde; -23,537721; -46,525646; /venda/imoveis/sp+sao-paulo+zona-leste+vl-matilde/
+Chácara Seis de Outubro; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Chacara Seis de Outubro; -23,533703; -46,53251; /venda/imoveis/sp+sao-paulo+zona-leste+ch-seis-de-outubro/
+Cidade Patriarca; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Cidade Patriarca; -23,545991; -46,509644; /venda/imoveis/sp+sao-paulo+zona-leste+cid-patriarca/
+Jardim Maringá; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Jardim Maringa; -23,206944; -45,895818; /venda/imoveis/sp+sao-jose-dos-campos++jd-maringa/
+Jardim Samara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Samara; -23,630215; -46,766592; /venda/imoveis/sp+sao-paulo+zona-sul+jd-samara/
+Jardim Triana; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Triana; -23,5379845; -46,5054327; /venda/imoveis/sp+sao-paulo+zona-leste+jd-triana/
+Vila Aricanduva; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Aricanduva; -23,53619; -46,539876; /venda/imoveis/sp+sao-paulo+zona-leste+vl-aricanduva/
+Vila Dalila; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Dalila; -23,547759; -46,519872; /venda/imoveis/sp+sao-paulo+zona-leste+vl-dalila/
+Vila Guilhermina; ; BR>Sao Paulo>NULL>Praia Grande>Barrios>Vila Guilhermina; -24,007379; -46,422697; /venda/imoveis/sp+praia-grande++vl-guilhermina/
+Vila Nova Savoia; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Nova Savoia; -23,5421638; -46,5174654; /venda/imoveis/sp+sao-paulo+zona-leste+vl-nv-savoia/
+Vila Talarico; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Talarico; -23,545991; -46,509644; /venda/imoveis/sp+sao-paulo+zona-leste+vl-talarico/
+Vila Medeiros; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Medeiros; -23,494242; -46,592133; /venda/imoveis/sp+sao-paulo+zona-norte+vl-medeiros/
+Jardim Neila; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Jardim Neila; -23,483451; -46,587614; /venda/imoveis/sp+sao-paulo+zona-norte+jd-neila/
+Vila Ede; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Ede; -23,489255; -46,584522; /venda/imoveis/sp+sao-paulo+zona-norte+vl-ede/
+Vila Elisa; ; BR>Sao Paulo>NULL>Ribeirao Preto>Barrios>Vila Elisa; -21,133723; -47,787189; /venda/imoveis/sp+ribeirao-preto++vl-elisa/
+Vila Munhoz; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Munhoz; -23,4892554; -46,5845224; /venda/imoveis/sp+sao-paulo+zona-norte+vl-munhoz/
+Vila Sabrina; Zona Norte; BR>Sao Paulo>NULL>Sao Paulo>Zona Norte>Vila Sabrina; -23,484558; -46,567377; /venda/imoveis/sp+sao-paulo+zona-norte+vl-sabrina/
+Jardim Julieta; ; BR>Sao Paulo>NULL>Taubate>Barrios>Jardim Julieta; -23,0524448; -45,5561556; /venda/imoveis/sp+taubate++jd-julieta/
+Vila Prudente; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Prudente; -23,579014; -46,579756; /venda/imoveis/sp+sao-paulo+zona-leste+vl-prudente/
+Jardim Avelino; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Jardim Avelino; -23,588286; -46,568034; /venda/imoveis/sp+sao-paulo+zona-leste+jd-avelino/
+Parque da Vila Prudente; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Parque da Vila Prudente; -23,589722; -46,576346; /venda/imoveis/sp+sao-paulo+zona-leste+pq-da-vl-prudente/
+Quinta da Paineira; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Quinta da Paineira; -23,587833; -46,587312; /venda/imoveis/sp+sao-paulo+zona-leste+quinta-da-paineira/
+Sítio da Figueira; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Sitio da Figueira; -23,604594; -46,548162; /venda/imoveis/sp+sao-paulo+zona-leste+sitio-da-figueira/
+Vila Alpina; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>VILA ALPINA; -23,593176; -46,552979; /venda/imoveis/sp+sao-paulo+zona-leste+vl-alpina/
+Vila Lúcia; ; BR>Sao Paulo>NULL>Poa>Barrios>Vila Lucia; -23,509175; -46,339081; /venda/imoveis/sp+poa++vl-lucia/
+Vila Zelina; Zona Leste; BR>Sao Paulo>NULL>Sao Paulo>Zona Leste>Vila Zelina; -23,589722; -46,576346; /venda/imoveis/sp+sao-paulo+zona-leste+vl-zelina/
+Vila Sônia; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Sonia; -23,603763; -46,729718; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-sonia/
+Jardim Alvorada; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Jardim Alvorada; -23,223793; -45,910575; /venda/imoveis/sp+sao-jose-dos-campos++jd-alvorada/
+Jardim Celeste; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Celeste; -23,65491; -46,609009; /venda/imoveis/sp+sao-paulo+zona-sul+jd-celeste/
+Jardim Colombo; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Colombo; -23,603763; -46,729718; /venda/imoveis/sp+sao-paulo+zona-sul+jd-colombo/
+Jardim das Palmas; ; BR>Parana>NULL>Campo Largo>Barrios>Jardim das Palmas; -25,4963192; -49,5127286; /venda/imoveis/pr+campo-largo++jd-das-palmas/
+Jardim das Vertentes; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim das Vertentes; -23,589992; -46,744676; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-das-vertentes/
+Jardim Jaqueline; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Jaqueline; -23,592995; -46,752081; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-jaqueline/
+Jardim Jussara; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Jussara; -23,592995; -46,752081; /venda/imoveis/sp+sao-paulo+zona-sul+jd-jussara/
+Jardim Leila; ; BR>Sao Paulo>NULL>Guarulhos>Barrios>Jardim Leila; -23,458166; -46,522279; /venda/imoveis/sp+guarulhos++jd-leila/
+Jardim Londrina; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Londrina; -23,605164; -46,742409; /venda/imoveis/sp+sao-paulo+zona-sul+jd-londrina/
+Jardim Maria do Carmo; ; BR>Sao Paulo>NULL>Sorocaba>Barrios>Jardim Maria do Carmo; -23,473794; -47,445363; /venda/imoveis/sp+sorocaba++jd-maria-do-carmo/
+Jardim Monte Kemel; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Monte Kemel; -23,601496; -46,73697; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-monte-kemel/
+Jardim Morro Verde; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Morro Verde; -23,6104118; -46,7472448; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-morro-verde/
+Jardim Novo Taboão; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Novo Taboao; -23,619955; -46,747245; /venda/imoveis/sp+sao-paulo+zona-sul+jd-nv-taboao/
+Jardim Olympia; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Olympia; -23,588223; -46,752081; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-olympia/
+Jardim Oriente; ; BR>Sao Paulo>NULL>Sao Jose dos Campos>Barrios>Jardim Oriente; -23,246627; -45,893869; /venda/imoveis/sp+sao-jose-dos-campos++jd-oriente/
+Jardim Rebouças; ; BR>Parana>NULL>Maringa>Barrios>Jardim Reboucas; -23,3792708; -51,961985; /venda/imoveis/pr+maringa++jd-reboucas/
+Jardim Rosemary; ; BR>Sao Paulo>NULL>Itapevi>Barrios>Jardim Rosemary; -23,561398; -46,925884; /venda/imoveis/sp+itapevi++jd-rosemary/
+Jardim Taboão; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Jardim Taboao; -23,65491; -46,609009; /venda/imoveis/sp+sao-paulo+zona-sul+jd-taboao/
+Jardim Trussardi; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Jardim Trussardi; -23,587066; -46,729718; /venda/imoveis/sp+sao-paulo+zona-oeste+jd-trussardi/
+Lar São Paulo; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Lar Sao Paulo; -23,609518; -46,7412; /venda/imoveis/sp+sao-paulo+zona-oeste+lar-s-paulo/
+Vila Albano; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Albano; -23,563487; -46,72101; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-albano/
+Vila Inah; Zona Oeste; BR>Sao Paulo>NULL>Sao Paulo>Zona Oeste>Vila Inah; -23,590167; -46,724884; /venda/imoveis/sp+sao-paulo+zona-oeste+vl-inah/
+Vila Morse; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Morse; -23,598158; -46,727301; /venda/imoveis/sp+sao-paulo+zona-sul+vl-morse/
+Vila Olga; ; BR>Sao Paulo>NULL>Atibaia>Barrios>Vila Olga; -23,139817; -46,562012; /venda/imoveis/sp+atibaia++vl-olga/
+Vila Pires; ; BR>Sao Paulo>NULL>Santo Andre>Barrios>Vila Pires; -23,676188; -46,511122; /venda/imoveis/sp+santo-andre++vl-pires/
+Vila Praia; Zona Sul; BR>Sao Paulo>NULL>Sao Paulo>Zona Sul>Vila Praia; -23,617912; -46,74392; /venda/imoveis/sp+sao-paulo+zona-sul+vl-praia/

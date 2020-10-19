@@ -9,8 +9,13 @@ namespace ImobScan
             try
             {
                 Motores.Zap.ExibirMensagem += ExibirMensagem;
-                string retorno = Motores.Zap.ConsultarImoveis();
-                ExibirMensagem(retorno);
+                Motores.Wikipedia.ExibirMensagem += ExibirMensagem;
+                //Motores.Wikipedia.GravabaseBairros();
+                //Motores.Zap.ClassificarBairro();
+                //string retorno = Motores.Zap.ConsultarImoveis();
+
+                Motores.Zap.ConsultarImoveisPorBairros();
+                //Motores.Zap.UnificarArquivos();
             }
             catch(Exception ex)
             {
@@ -19,6 +24,7 @@ namespace ImobScan
             finally
             {
                 Motores.Zap.ExibirMensagem -= ExibirMensagem;
+                Motores.Wikipedia.ExibirMensagem -= ExibirMensagem;
             }
         }
 
@@ -26,7 +32,6 @@ namespace ImobScan
         private static void ExibirMensagem(string mensagem)
         {
             Console.WriteLine(mensagem);
-        }
-        
+        }        
     }
 }
